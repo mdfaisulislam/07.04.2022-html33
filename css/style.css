@@ -1,0 +1,65 @@
+.button {
+    background-color: skyblue;
+    color: white;
+    border: 3px solid blue;
+    padding: 17px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.header{
+    height: 100px;
+    background-color: rgb(28 149 191);
+    color: white;
+}
+.box{
+    width: 50%;
+    height: 100px;
+    padding: 25px 10px 10px 10px;
+    margin: 10px 10px 10px 802px;
+}
+.box1{
+     margin: 10px 10px 10px 749px;
+}
+.container{
+     overflow: hidden;
+}
+.blog{
+    height: 100px;
+    width: 40%;
+    float: left;
+    background-color: yellow;
+}
+.contact{
+    height: 100px;
+    width: 50%;
+    background-color: black;
+    float: right;
+}
+.wrapper{
+    overflow: hidden;
+
+}
+.single{
+    height: 100px;
+    width: 33.33%;
+    float: left;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.footer{
+    height: 100px;
+    background-color: pink;
+    /*clear: both;*/
+}
